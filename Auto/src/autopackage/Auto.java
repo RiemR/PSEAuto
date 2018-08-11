@@ -26,6 +26,7 @@ public class Auto {
 	/**
 	 * Konstruktor Auto erstellt ein neues Objekt eines Autos
 	 * 
+	 * Ferhat hat ein Kommentar hinzugefügt
 	 * @param autoid
 	 * @param preis
 	 * @param marke
