@@ -6,6 +6,8 @@ import com.mysql.jdbc.Blob;
  * 
  * @author Autogruppe Diese Klasse ist für die Erzeugung eines neuen Autos
  *         zuständig
+ *         
+ *         WIr benutzen GitHub!!
  *
  */
 public class Auto {
